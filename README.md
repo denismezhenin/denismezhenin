@@ -67,9 +67,11 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
 - GraphiQL (The playground/IDE for graphQL requests. Project created in team work): [Preview](https://qraphiql-app-react-rsschool.netlify.app/) & [Code](https://github.com/Katsiaryna-Andrabaila/graphiql-app)<br/>
 - Task-manager (Task manager is similar to Trello and Github Projects. Application created in team work): [Preview](https://best-team-task-manager.netlify.app/) & [Code](https://github.com/Sashkakotov/RS-Clone)<br/>
 - Online-store (Online store with functionality(no responsive). Application created in team work): [Preview](https://online-store-ds.netlify.app/#) & [Code](https://github.com/Sashkakotov/Online-Store)<br/>
+- React SSR App (Using new features of React 18 renderToPipeableStream):  [Code](https://github.com/denismezhenin/rs-react-projesct)<br/>
 - SongBird (Quiz for recognizing birds by their voices): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/songbird/) & [Code](https://github.com/denismezhenin/songbird)<br/>
 - Gem Puzzle (Classic game - goal is to arrange moving numbered tiles by order): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/gem-puzzle/src/) & [Code](https://github.com/denismezhenin/gem-puzzle)<br/>
-- React SSR (Using new features of React 18 renderToPipeableStream):  [Code](https://github.com/denismezhenin/rs-react-projesct)<br/>
+- Online-zoo (Online-zoo responsive 2 pages site for the zoo with pixel perfect): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/online-zoo/pages/main/) & [Code](https://github.com/denismezhenin/online-zoo)<br/>
+
 
 <h3 align="left">Codewars</h3>
 <img src=https://www.codewars.com/users/denismezhenin/badges/large alt=codewars>
