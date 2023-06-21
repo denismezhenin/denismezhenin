@@ -28,10 +28,11 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
 
 <h3>🚀 Some Tools I Use</h3>
   <div id="stack">
-    <div id="badges">
+    <div id="badges" align="center">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript badge" />
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react badge"/>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="react badge"/>
       <img src="https://img.shields.io/badge/react_hooks-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react-hooks badge"/>
       <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="react-hook-form badge"/>
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router badge"/>
@@ -58,8 +59,8 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
   <h3>📚 Languages:</h3>
 
 * English C1
-* Belarusian (native)
 * Polish A1
+* Belarusian (native)
 <hr>
 
 ### 📁 Main Projects:
