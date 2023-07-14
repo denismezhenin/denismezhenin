@@ -33,11 +33,12 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript badge" />
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react badge"/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="react badge"/>
+      <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
+      <img src="https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux-toolkit badge"/>
+      <img src="https://img.shields.io/badge/Express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="react-hooks badge"/>
       <img src="https://img.shields.io/badge/react_hooks-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react-hooks badge"/>
       <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="react-hook-form badge"/>
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router badge"/>
-      <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
-      <img src="https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux-toolkit badge"/>
       <img src="https://img.shields.io/badge/RTK_Query-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="rtk-query badge"/>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge" />
@@ -65,10 +66,12 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
 
 ### 📁 Main Projects:
 
+- Streamers App (Fullstack app where you can add like your favorite streamer): [Code](https://github.com/denismezhenin/streamers-app)<br/>
+- The battleships (The game battleships for two players using WebSocket server): [Code](https://github.com/denismezhenin/battleships)<br/>
 - GraphiQL (The playground/IDE for graphQL requests. Project created in team work): [Preview](https://qraphiql-app-react-rsschool.netlify.app/) & [Code](https://github.com/Katsiaryna-Andrabaila/graphiql-app)<br/>
+- React SSR App (Using new features of React 18 renderToPipeableStream):  [Code](https://github.com/denismezhenin/rs-react-projesct)<br/>
 - Task-manager (Task manager is similar to Trello and Github Projects. Application created in team work): [Preview](https://best-team-task-manager.netlify.app/) & [Code](https://github.com/Sashkakotov/RS-Clone)<br/>
 - Online-store (Online store with functionality(no responsive). Application created in team work): [Preview](https://online-store-ds.netlify.app/#) & [Code](https://github.com/Sashkakotov/Online-Store)<br/>
-- React SSR App (Using new features of React 18 renderToPipeableStream):  [Code](https://github.com/denismezhenin/rs-react-projesct)<br/>
 - SongBird (Quiz for recognizing birds by their voices): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/songbird/) & [Code](https://github.com/denismezhenin/songbird)<br/>
 - Gem Puzzle (Classic game - goal is to arrange moving numbered tiles by order): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/gem-puzzle/src/) & [Code](https://github.com/denismezhenin/gem-puzzle)<br/>
 - Online-zoo (Online-zoo responsive 2 pages site for the zoo with pixel perfect): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/online-zoo/pages/main/) & [Code](https://github.com/denismezhenin/online-zoo)<br/>
