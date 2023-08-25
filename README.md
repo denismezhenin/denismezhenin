@@ -66,7 +66,7 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
 
 ### 📁 Main Projects:
 
-- Music home library (REST Api with database and authorization): [Code](https://github.com/denismezhenin/streamers-app)<br/>
+- Music home library (REST Api with database and authorization): [Code](https://github.com/denismezhenin/nodejs2023Q2-service)<br/>
 - Streamers App (Fullstack app where you can add like your favorite streamer): [Code](https://github.com/denismezhenin/streamers-app)<br/>
 - The battleships (The game battleships for two players using WebSocket server): [Code](https://github.com/denismezhenin/battleships)<br/>
 - GraphiQL (The playground/IDE for graphQL requests. Project created in team work): [Preview](https://qraphiql-app-react-rsschool.netlify.app/) & [Code](https://github.com/Katsiaryna-Andrabaila/graphiql-app)<br/>
