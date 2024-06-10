@@ -22,7 +22,6 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
 
 - 🚴 As a cyclist, I approach every new project as an opportunity to venture into unexplored territories and expand my perspective.
 - 🇵🇱 Based in Wrocław.
-- 🌱 I’m currently learning **Node.js**
 <hr>
 
 
