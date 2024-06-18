@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dzianis</h1>
+<h1 align="center">Hi 👋, I'm Denis</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dzianismiazehin/">
+<!--   <a href="https://www.linkedin.com/in/dzianismiazehin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="mailto:dzianismiazhenin@gmail.com">
+  </a> -->
+<!--    <a href="mailto:dzianismiazhenin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/denismezhenin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
 </div>
 <hr>
 
@@ -21,7 +21,6 @@
 I'm a front-end developer with a never-ending thirst for knowledge and new challenges.
 
 - 🚴 As a cyclist, I approach every new project as an opportunity to venture into unexplored territories and expand my perspective.
-- 🇵🇱 Based in Wrocław.
 <hr>
 
 
@@ -62,7 +61,7 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
 * Polish A1
 * Belarusian (native)
 <hr>
-
+<!--
 ### 📁 Main Projects:
 
 - Music home library (REST Api with database and authorization): [Code](https://github.com/denismezhenin/nodejs2023Q2-service)<br/>
@@ -75,14 +74,14 @@ I'm a front-end developer with a never-ending thirst for knowledge and new chall
 - SongBird (Quiz for recognizing birds by their voices): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/songbird/) & [Code](https://github.com/denismezhenin/songbird)<br/>
 - Gem Puzzle (Classic game - goal is to arrange moving numbered tiles by order): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/gem-puzzle/src/) & [Code](https://github.com/denismezhenin/gem-puzzle)<br/>
 - Online-zoo (Online-zoo responsive 2 pages site for the zoo with pixel perfect): [Preview](https://rolling-scopes-school.github.io/denismezhenin-JSFE2022Q3/online-zoo/pages/main/) & [Code](https://github.com/denismezhenin/online-zoo)<br/>
+-->
 
-
-<h3 align="left">Codewars</h3>
-<img src=https://www.codewars.com/users/denismezhenin/badges/large alt=codewars>
+<!-- <h3 align="left">Codewars</h3>
+<img src=https://www.codewars.com/users/denismezhenin/badges/large alt=codewars> -->
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denismezhenin&show_icons=true&locale=en&layout=compact" alt="denismezhenin" /></p>
+<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denismezhenin&show_icons=true&locale=en&layout=compact" alt="denismezhenin" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denismezhenin&show_icons=true&locale=en" alt="denismezhenin" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denismezhenin&show_icons=true&locale=en" alt="denismezhenin" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denismezhenin&" alt="denismezhenin" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denismezhenin&" alt="denismezhenin" /></p> -->
